@@ -1,11 +1,3 @@
-<style>
-  body{
-    backgroundcolor: gray;
-  }
-  h2{
-    font-family: "Courier";
-  }
-</style>
-<h2>print("Hello World!")</h2>
+<h2 style="color: red;">print("Hello World!")</h2>
 <p><q>IMAGINATION IS MORE IMPORTANT THAN KNOWLEDGE</q></p>
 <br>
